@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=VT323&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-VT323: VT323, sans-serif;
+  --font-Jacquard:"Jacquard 12", sans-serif;
+}
